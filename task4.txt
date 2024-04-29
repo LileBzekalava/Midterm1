@@ -1,0 +1,2 @@
+Set of Different Words: [convertible, pasta, pliers]
+Word Length Map: {6=1, 5=1, 7=1}
